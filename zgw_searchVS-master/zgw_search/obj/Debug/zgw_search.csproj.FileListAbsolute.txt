@@ -1,0 +1,14 @@
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\bin\Debug\zgw_search.exe.config
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\bin\Debug\zgw_search.exe.manifest
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\bin\Debug\zgw_search.application
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\bin\Debug\zgw_search.exe
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\bin\Debug\zgw_search.pdb
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.csproj.AssemblyReference.cache
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.csproj.SuggestedBindingRedirects.cache
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.Properties.Resources.resources
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.csproj.GenerateResource.cache
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.csproj.CoreCompileInputs.cache
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.exe.manifest
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.application
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.exe
+C:\Users\93918\OneDrive\桌面\zgw_searchVS-master\zgw_search\obj\Debug\zgw_search.pdb
